@@ -1,0 +1,50 @@
+#portskills
+{
+    overflow: hidden;
+    width: 40vw;
+    max-width:65rem ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.portdiv1
+{
+    align-items: center;
+    
+
+}
+.portdiv2
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 2rem;
+
+}
+.portskillsBars
+{
+    margin-left: 1rem;
+    width: 40vw;
+}
+
+.portskillsTitile
+{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;  
+    align-items: center;
+    margin-left: 47rem;
+    margin-top: 2rem;
+
+}
+
+.portskillBarText
+{
+    font-size: 0.9rem;
+    font-weight: 200;
+    
+}
